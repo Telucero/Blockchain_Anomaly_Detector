@@ -1,0 +1,1 @@
+/Users/enache/Desktop/rust-projects/rust\ project\ with\ tay/Blockchain_Anomaly_Detector/target/debug/libanomaly_detection.rlib: /Users/enache/Desktop/rust-projects/rust\ project\ with\ tay/Blockchain_Anomaly_Detector/src/lib.rs
