@@ -1,0 +1,1 @@
+/Users/enache/Desktop/rust-projects/rust\ project\ with\ tay/Blockchain_Anomaly_Detector/anomaly_detection/target/debug/anomaly_detection: /Users/enache/Desktop/rust-projects/rust\ project\ with\ tay/Blockchain_Anomaly_Detector/anomaly_detection/src/main.rs
