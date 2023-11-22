@@ -1,0 +1,11 @@
+/Users/enache/Desktop/rust-projects/rust project with tay/Blockchain_Anomaly_Detector/target/debug/deps/dotenv-c057def3e8da8009.rmeta: /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/Users/enache/Desktop/rust-projects/rust project with tay/Blockchain_Anomaly_Detector/target/debug/deps/libdotenv-c057def3e8da8009.rlib: /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/Users/enache/Desktop/rust-projects/rust project with tay/Blockchain_Anomaly_Detector/target/debug/deps/dotenv-c057def3e8da8009.d: /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs
+
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/lib.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/parse.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/errors.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/iter.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dotenv-0.15.0/src/find.rs:

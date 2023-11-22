@@ -1,0 +1,10 @@
+/Users/enache/Desktop/rust-projects/rust project with tay/Blockchain_Anomaly_Detector/target/debug/deps/futures_task-e2423a6012de217c.rmeta: /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs
+
+/Users/enache/Desktop/rust-projects/rust project with tay/Blockchain_Anomaly_Detector/target/debug/deps/libfutures_task-e2423a6012de217c.rlib: /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs
+
+/Users/enache/Desktop/rust-projects/rust project with tay/Blockchain_Anomaly_Detector/target/debug/deps/futures_task-e2423a6012de217c.d: /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs /Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs
+
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs:
+/Users/enache/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs:
